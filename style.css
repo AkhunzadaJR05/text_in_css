@@ -1,0 +1,167 @@
+/* body {
+    font-family: cursive;
+} */
+
+/* FONT SIZE */
+/* Pixels */
+
+/* body{
+    font-size: 16px;
+} */
+
+/* percentange */
+/* body{
+    font-size: 100%;
+} */
+
+/* 
+body{
+    font-size: xx-small;
+} */ 
+
+/* FONT FACE */
+ /* @font-face {
+    font-family: 'test';
+    src: url('fonts/Handwind.ttf');
+}
+
+h1 {
+    font-family: test;
+}  */
+
+
+/* FONT WEIGHT */
+/* p{
+    font-weight: bold;
+} */
+
+/* FONT STYLE */
+/* #normal{
+    font-style: normal;
+}
+
+#italic{
+    font-style: italic;
+}
+
+#oblique{
+    font-style: oblique;
+} */
+
+/* TEXT TRANSFORM */
+/* h1{
+    text-transform:uppercase;
+} */
+
+/* TEXT DECORATION */
+/* #underline {
+    text-decoration: underline;
+}
+
+#overline{
+    text-decoration: overline;
+}
+
+#line-through{
+    text-decoration: line-through;
+} */
+
+/* LINE HEIGHT / LEADING */
+/* p{
+    line-height: 100px;
+} */
+
+/* LETTER AND WORD SPACING */
+/* h1{
+    word-spacing: 5px;
+    letter-spacing: 10px;
+} */
+
+/* TEXT ALIGN */
+
+
+/* VERTICAL ALIGNMENT */
+/* img{
+    vertical-align: text-top ;
+} */
+
+/* TEXT INDENT */
+/* h1{
+    text-indent: 50px;
+} */
+
+/* TEXT SHADOW */
+/* p{
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 1px 1px 0px #000000; 
+} */
+
+/* FIRST LETTER OR FIRST LINE */
+/* p::first-letter{
+    color: red;
+} */
+
+/* p::first-line{
+    color: blue;
+} */
+
+/* STYLING LINKS */
+/* a:link{
+    color: blue;
+}
+
+a:visited{
+    color: red;
+} */
+
+/* RESPONDING TO USER */
+/* hover */
+/* input.btn:hover{
+    background-color: violet;
+}
+
+input.btn:active{
+    background-color: wheat;
+} */
+
+/* input.btn:focus{
+    background-color: blue;
+}
+
+input.text-box:focus{
+    background-color: purple;
+} */
+
+/* ATTRIBUTE SELECTORS */
+
+/* Existence */
+/* h1[name]{
+    color: red;
+} */
+
+/* Equality */
+/* h1[name="hi"]{
+    color: purple;
+} */
+
+
+/* Space */
+/* h1[name~="everyone"]{
+    color: wheat;
+} */
+
+/* Prefix */
+/* h1[name^="hi e"]{
+    color: red;
+} */
+
+/* Substring */
+/* h1[name*="el"]{
+    color: red;
+} */
+
+/* Suffix */
+/* h1[name$="o"]{
+    color: red;
+} */
